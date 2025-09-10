@@ -27,7 +27,7 @@ int main()
     }
     else
     {
-        printf("ALL HAVE SAME PERIMETER");
+        printf("Which rectangle have the highest perimeter");
     }
     return 0;
 }    
